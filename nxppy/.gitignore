@@ -1,0 +1,13 @@
+build/
+dist/
+nose-*.egg/
+nxppy.egg-info/
+test.py
+*.*~
+.eggs/
+nxp/
+.idea/
+*.so
+*.cbp
+README.html
+
